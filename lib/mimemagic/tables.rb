@@ -155,6 +155,7 @@ class MimeMagic
     'epsi.gz' => 'image/x-gzeps',
     'epub' => 'application/epub+zip',
     'erl' => 'text/x-erlang',
+    'erb' => 'text/html',
     'es' => 'application/ecmascript',
     'etheme' => 'application/x-e-theme',
     'etx' => 'text/x-setext',
